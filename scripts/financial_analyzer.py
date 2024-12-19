@@ -3,9 +3,9 @@ import talib as ta
 import pandas as pd
 import numpy as np
 import plotly.express as px
-from pyportfolioOpt.efficient_frontier import EfficientFrontier
-from pyportfolioOpt import risk_models
-from pyportfolioOpt import expected_returns
+from pypfopt.efficient_frontier import EfficientFrontier
+from pypfopt import risk_models
+from pypfopt import expected_returns
 
 class FinancialAnalyzer:
     def __init__(self, ticker, start_date, end_date):
