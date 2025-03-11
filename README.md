@@ -44,4 +44,4 @@ This project aims to analyze and explore the relationship between news headlines
    - Plotted publication frequency over time to detect spikes and patterns.
    - Analyzed publishing times to identify peak activity periods.
 
-### Key findings (upcoming)
+
